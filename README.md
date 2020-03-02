@@ -474,7 +474,7 @@ The terminal info, the structure shows below
 
 ### [UpdateApi](docs/UpdateApi.md)
 
-### [ResultCode](docs/ResultCode.md)
+### [BusinessCode](docs/BusinessCode.md)
 
 ### [CloudMsg APIs](docs/CloudMsgAPIs.md)
 

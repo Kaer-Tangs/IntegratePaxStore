@@ -1,6 +1,6 @@
-# ResultCode
+# BusinessCode
 
-| Result Code | Message                      | Description                                                  |
+| Business Code | Message                      | Description                                                  |
 | ----------- | ---------------------------- | ------------------------------------------------------------ |
 | 0           |                              | Success                                                      |
 | 16100       | Sdk param error              | Param error                                                  |
